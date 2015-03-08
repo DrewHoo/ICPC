@@ -1,0 +1,1 @@
+This repository contains my solutions to programming competition problems from various ICPC competitions.
